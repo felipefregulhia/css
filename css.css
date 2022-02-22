@@ -1,1 +1,3 @@
-color:red;
+.page-title *{
+color: red !important;
+}
